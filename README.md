@@ -6,3 +6,6 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpark1997&count_bg=%2311AA24&title_bg=%23548ED3&icon=pjsip.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)               
+
+## My portfolio
+https://www.notion.so/bd67d36d747749f4bd34f0dc3ce7d852
